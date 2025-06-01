@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://augustinasb-vgtu.github.io/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 14:00:00 +0300</lastBuildDate>
+    <atom:link href="https://augustinasb-vgtu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pradinis puslapis</title>
+      <link>https://augustinasb-vgtu.github.io/posts/pirmas-puslapis/</link>
+      <pubDate>Sun, 01 Jun 2025 14:00:00 +0300</pubDate>
+      <guid>https://augustinasb-vgtu.github.io/posts/pirmas-puslapis/</guid>
+      <description>&lt;h1 id=&#34;-sveiki-atvykę&#34;&gt;👋 Sveiki atvykę!&lt;/h1&gt;&#xA;&lt;p&gt;Tai yra &lt;strong&gt;pirmas puslapis&lt;/strong&gt; sukurtas naudojant &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; ir &lt;em&gt;PaperMod&lt;/em&gt; temą.&lt;br&gt;&#xA;Čia bus daugiau turinio ✨.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-turinys&#34;&gt;📌 Turinys&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Šis puslapis sukurtas naudojant &lt;code&gt;Markdown&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Naudoja temą &lt;strong&gt;PaperMod&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Palaiko sintaksės paryškinimą&lt;/li&gt;&#xA;&lt;li&gt;Galite įterpti kodą, nuotraukas ir nuorodas&lt;/li&gt;&#xA;&lt;li&gt;Talpinama per &lt;strong&gt;GitHub Pages&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-mūsų-logotipas&#34;&gt;🖼️ Mūsų logotipas&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://augustinasb-vgtu.github.io/images/logo.png&#34; alt=&#34;Logotipas&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-kodo-pavyzdys&#34;&gt;💡 Kodo pavyzdys&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;sveikas&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Sveikas, pasauli!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
